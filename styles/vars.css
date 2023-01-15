@@ -1,0 +1,20 @@
+:root {
+
+    /* color variables */
+    --red-pale: #cc9393;
+    --red-error: #ce6868;
+    --red-active: #cd3333;
+    --red-active-alt: #ca4c4c;
+    --blue-pale: #92badd;
+    --blue-active: #39ace7;
+    --blue: #5ca7e8;
+    --grey-border: #cececeb3;
+    --grey-border-alt: #b8b8b8;
+
+    --grey-background-pale: #cecece; 
+    --grey-background-active: #444444; 
+    --white-background-pale: #f7f8fa;
+
+    --opaque-black-10: #00000010;
+    --opaque-black-20: #00000020;
+  }
